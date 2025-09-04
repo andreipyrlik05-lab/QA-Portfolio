@@ -50,10 +50,8 @@
 **Подробный отчет о тестировании, тест-кейсы  доступны на GitHub:**
 
 
-1. Виды тестирования которые я использовал 
-https://github.com/andreipyrlik05-lab/Testing-methods-API/tree/main
 
-2.  Тестовая документация (Тест-кейсы)
+1.  Тестовая документация (Тест-кейсы)
 https://github.com/andreipyrlik05-lab/Test-case-API/blob/main/README.md
 
 
