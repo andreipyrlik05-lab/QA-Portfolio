@@ -28,7 +28,10 @@
       https://github.com/andreipyrlik05-lab/CheckList_UI/blob/main/README.md  
 
  - Тестовая документация (Тест-кейсы)  
-     https://github.com/andreipyrlik05-lab/TestCase_UI/blob/main/README.md
+     https://github.com/andreipyrlik05-lab/TestCase_UI/blob/main/README.md  
+
+ - Тест-кейсы в TestRail
+   
 
 
    
