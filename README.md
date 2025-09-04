@@ -22,7 +22,7 @@
 **Подробный отчет о тестировании: Чек-лист, тест-кейсы,  баг-репорты доступны на GitHub:**
 
  -  Методы тестирования которые я использовал  
-      https://github.com/andreipyrlik05-lab/Testing-methods/blob/main/README.md
+      https://github.com/andreipyrlik05-lab/Testing-methods/blob/main/README.md  
 
  -  Тестовая документация (Чек-лист)  
       https://github.com/andreipyrlik05-lab/CheckList_UI/blob/main/README.md  
