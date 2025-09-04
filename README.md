@@ -30,7 +30,8 @@
  - Тестовая документация (Тест-кейсы)  
      https://github.com/andreipyrlik05-lab/TestCase_UI/blob/main/README.md  
 
- - Тест-кейсы в TestRail
+ - Тест-кейсы в TestRail  
+ [Текст ссылки, который видит пользователь](https://github.com/andreipyrlik05-lab/TestRail/blob/main/TestRail/%D0%A2%D0%B5%D1%81%D1%82%D0%9A%D0%B5%D0%B9%D1%81%D1%8B_TestRail.png)
    
 
 
