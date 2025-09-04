@@ -25,10 +25,12 @@
       https://github.com/andreipyrlik05-lab/Testing-methods/blob/main/README.md
 
  -  Тестовая документация (Чек-лист)  
-      https://github.com/andreipyrlik05-lab/CheckList_UI/blob/main/README.md
+      https://github.com/andreipyrlik05-lab/CheckList_UI/blob/main/README.md  
 
--   Тестовая документация (Тест-кейсы)  
-      https://github.com/andreipyrlik05-lab/TestCase_UI  
+-   Тесты TestRail (Тест-кейсы)  
+     ![Тест-кейсы в TestRail](/ТестКейсы_TestRail.png)   
+
+   
 
 -   Оформления найденных ошибок (Баг-репорты)  
       https://github.com/andreipyrlik05-lab/Bug-report_1/blob/main/README.md  
