@@ -27,9 +27,6 @@
  -  Тестовая документация (Чек-лист)  
       https://github.com/andreipyrlik05-lab/CheckList_UI/blob/main/README.md  
 
--   Тесты TestRail (Тест-кейсы)  
-     ![Тест-кейсы в TestRail](TestRail/ТестКейсы_TestRail.png)   
-
    
 
 -   Оформления найденных ошибок (Баг-репорты)  
