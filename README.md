@@ -65,7 +65,7 @@ https://github.com/andreipyrlik05-lab/Test-case-API/blob/main/README.md
 **Для связи:**
 
 * Telegram: [@AndreiPyrlik](https://t.me/AndreiPyrlik)
-* Почта: andrei.pyrlik05@gmail.com
+
 
 **Всегда открыт к новым проектам и предложениям о работе!**
  
