@@ -79,7 +79,7 @@ https://github.com/andreipyrlik05-lab/Test-case-API/blob/main/README.md
 - Негативное тестирование
 - Составление тестовой документации
 - Различные виды тестирования
-[Посмотреть детали](#)
+[Посмотреть детали](https://github.com/andreipyrlik05-lab/Test-assignment-from-Naimix)
 
 
 
