@@ -73,7 +73,8 @@ https://github.com/andreipyrlik05-lab/Test-case-API/blob/main/README.md
  3. Комплексное тестирование продукта (на примере карандаша)  
  4. Негативные тест-кейсы для формы авторизации  
  5. Локализа проблемы
- 6. Баг-репорт   
+ 6. Баг-репорт  
+ 
 [Посмотреть детали](https://github.com/andreipyrlik05-lab/Test-assignment-from-Naimix)
 
 
